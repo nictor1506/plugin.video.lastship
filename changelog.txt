@@ -1,5 +1,6 @@
 - Movies / Languages section fixed (cheers amomynous for catching this one)
 - Primewire fixed
+- ProjectFreeTV fixed
 
 [B]1.1.9[/B]
 - Fix Sezonlukdizi (credits to weekendsource)
