@@ -3,6 +3,7 @@
 - ProjectFreeTV fixed
 - Pubfilm fixed
 - Release BB fixed
+- Watchfree fixed
 
 [B]1.1.9[/B]
 - Fix Sezonlukdizi (credits to weekendsource)
