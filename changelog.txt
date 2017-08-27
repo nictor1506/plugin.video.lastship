@@ -4,6 +4,7 @@
 - Pubfilm fixed
 - Release BB fixed
 - Watchfree fixed
+- Scenedown fixed
 
 [B]1.1.9[/B]
 - Fix Sezonlukdizi (credits to weekendsource)
