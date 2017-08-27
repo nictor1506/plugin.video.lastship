@@ -27,7 +27,7 @@
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
 		<news>- Movie search by language fixed (caught by amomynous)
-- Fix for Primewire
-- Fix for ProjectFreeTV</news>
+- Fixes for Primewire, ProjectFreeTV, Pubfilm
+</news>
 	</extension>
 </addon>
