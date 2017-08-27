@@ -2,6 +2,7 @@
 - Primewire fixed
 - ProjectFreeTV fixed
 - Pubfilm fixed
+- Release BB fixed
 
 [B]1.1.9[/B]
 - Fix Sezonlukdizi (credits to weekendsource)
