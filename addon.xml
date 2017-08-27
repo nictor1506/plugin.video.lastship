@@ -26,10 +26,6 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- Provider Sezonlukdizi fixed
-- German translation fixes
-- Alphabetical sort order in settings fixed
-- Removed MeinKino
-- Bugfix for "New Episodes" setting being invisible</news>
+		<news>- Movie search by language fixed (caught by amomynous)</news>
 	</extension>
 </addon>
