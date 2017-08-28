@@ -27,7 +27,6 @@
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
 		<news>- Movie search by language fixed (caught by amomynous)
-- Fixes for Primewire, ProjectFreeTV, Pubfilm, Release BB, Watchfree & Scenedown
-</news>
+- Fixes for Primewire,ProjectFreeTV,Pubfilm,ReleaseBB,Putlocker,SeriesOnline,Watchfree,Scenedown</news>
 	</extension>
 </addon>
