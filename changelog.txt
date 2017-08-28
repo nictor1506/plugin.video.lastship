@@ -5,6 +5,8 @@
 - Release BB fixed
 - Watchfree fixed
 - Scenedown fixed
+- Putlocker fixed
+- SeriesOnline fixed
 
 [B]1.1.9[/B]
 - Fix Sezonlukdizi (credits to weekendsource)
